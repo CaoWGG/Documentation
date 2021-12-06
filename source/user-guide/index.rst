@@ -37,6 +37,7 @@
    model-development/amp/index
    model-development/profiler/index
    model-development/jit/index
+   deployment/traced_module/index
 
 .. toctree::
    :caption: 推理部署篇
@@ -44,7 +45,6 @@
    :maxdepth: 1
 
    deployment/index
-   deployment/traced_module/index
    deployment/lite/index
    deployment/midout
 
